@@ -1,5 +1,3 @@
 Modelos del software:
-- modelo en cascada
-- modelo en casscada con feedback
+
 - modelo iterativo incremental
-- modelo agile
